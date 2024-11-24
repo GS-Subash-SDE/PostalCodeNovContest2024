@@ -8,8 +8,7 @@
   padding: 1rem 2rem;
 
   .spinner{
-    // background-color: red;
-    height: 400px;
+        height: 400px;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -44,7 +43,6 @@
 }
 
 .dashboardCont {
-  // background-color: red;
   width: 100%;
   height: auto;
   display: flex;
@@ -63,7 +61,6 @@
   .postalDescription {
     display: flex;
     flex-direction: column;
-    // background-color: orange;
     font-size: 1.4rem;
 
     .pDivDesc {
@@ -77,14 +74,12 @@
     border: 0.17rem solid black;
     border-radius: 0.3rem;
     display: flex;
-    // background-color: salmon;
     justify-content: center;
     align-items: center;
 
     .searchIcon {
       width: 100%;
       height: 100%;
-      // background-color: yellow;
       display: grid;
       place-content: center;
       font-size: 1.2rem;
@@ -109,18 +104,15 @@
   }
 
   .postalDataCont {
-    // background-color: hotpink;
     width: 100%;
     height: auto;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    // grid-template-rows: 10rem ;
 
     gap: 1rem;
     .postalData {
       width: 100%;
       height: 100%;
-      // background-color: red;
       border: 0.2rem solid black;
       border-radius: 0.4rem;
       padding: 1rem;

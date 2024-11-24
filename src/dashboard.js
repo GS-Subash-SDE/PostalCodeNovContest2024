@@ -18,7 +18,7 @@ const Dashboard = () => {
   const [filterInput, setFilterInput] = useState("");
   const { Message, PostOffice, Status } = officeData;
 // const { Name, BranchType, DeliveryStatus, District, Division } = data;
-  const filteredData = PostOffice.filter((val) => {
+  const filteredData = PostOffice?.filter((val) => {
     console.log("filter",val.Name);
     const { Name, BranchType, DeliveryStatus, District, Division } = val
     return (
