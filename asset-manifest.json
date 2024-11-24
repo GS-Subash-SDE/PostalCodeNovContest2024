@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/PostalCodeNovContest2024/static/css/main.a940397b.css",
-    "main.js": "/PostalCodeNovContest2024/static/js/main.b54c89a1.js",
+    "main.css": "/PostalCodeNovContest2024/static/css/main.260c5aa0.css",
+    "main.js": "/PostalCodeNovContest2024/static/js/main.8bf8b5a0.js",
     "index.html": "/PostalCodeNovContest2024/index.html",
-    "main.a940397b.css.map": "/PostalCodeNovContest2024/static/css/main.a940397b.css.map",
-    "main.b54c89a1.js.map": "/PostalCodeNovContest2024/static/js/main.b54c89a1.js.map"
+    "main.260c5aa0.css.map": "/PostalCodeNovContest2024/static/css/main.260c5aa0.css.map",
+    "main.8bf8b5a0.js.map": "/PostalCodeNovContest2024/static/js/main.8bf8b5a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.a940397b.css",
-    "static/js/main.b54c89a1.js"
+    "static/css/main.260c5aa0.css",
+    "static/js/main.8bf8b5a0.js"
   ]
 }
